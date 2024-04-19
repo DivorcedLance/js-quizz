@@ -24,8 +24,8 @@ Bienvenidos al repositorio de la **JS Quiz App**, una aplicación interactiva de
 
 > Aquí puedes agregar algunas capturas de pantalla de tu aplicación.
 
-![Captura 1](link-a-la-imagen)
-![Captura 2](link-a-la-imagen)
+![Captura 1](https://github.com/DivorcedLance/js-quizz/assets/104219610/372533c3-a885-46c2-a29a-041e29697913)
+![Captura 2](https://github.com/DivorcedLance/js-quizz/assets/104219610/0a5fbbe1-3d34-44e4-9eb3-1895b3c00f8f)
 
 ## 🌐 Hosting
 
